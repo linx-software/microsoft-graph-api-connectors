@@ -62,4 +62,6 @@ If there are specific Microsoft Graph API operations that you would like to see 
 For questions and issues please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
 
 
+## License
 
+[MIT](https://github.com/linx-software/microsoft-graph-api-connectors/blob/main/LICENSE)
