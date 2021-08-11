@@ -6,7 +6,7 @@ This sample contains multiple pre-built [Linx](https://linx.software) functions 
 
 The goal of this Linx Solution is to ultimately include custom built connector functions for all the methods specified in the official [Microsoft Graph REST API v1.0 reference](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0&preserve-view=true). 
 
-For a full list of all the requests implemented in the Linx sample, take a look at the [wiki]().
+For a full list of all the requests implemented in the Linx sample, take a look at the [wiki](https://github.com/linx-software/microsoft-graph-api-connectors/wiki).
 
 ## Installation
 
@@ -39,7 +39,7 @@ You're able to generate and retrieve your token from an external authentication 
 
 This sample contains generic "connector" functions which can be imported and used in your own Linx Solution.
 
-For a full list of the implemented methods, have a look at the [wiki]() page.
+For a full list of the implemented methods, have a look at the [wiki](https://github.com/linx-software/microsoft-graph-api-connectors/wiki).
  
 Each connector function in the Solution follows the below structure:
 - Takes in an "access token" value as an input parameter.
@@ -62,4 +62,6 @@ If there are specific Microsoft Graph API operations that you would like to see 
 For questions and issues please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
 
 
+## License
 
+[MIT](https://github.com/linx-software/microsoft-graph-api-connectors/blob/main/LICENSE)
